@@ -1,3 +1,9 @@
+### Configuration
+| Command | Description |
+| ------- | ----------- |
+| `git config --global user.name "your_name"` | Identity Name |
+| `git config --global user.email "youe_email`| Identity Email|
+| `git config --list`| Display Config |
 ### Getting & Creating Projects
 
 | Command | Description |
